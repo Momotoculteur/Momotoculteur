@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 A Propos
+Développeur en génie logiciel de formation, je suis aujourd’hui ingénieur DevOps chez Betclic à Bordeaux, après quelques années passées chez Thales (Bordeaux, France).  
+Je m'intéresse aussi au domaine du Machine & Deep learning.  
+Passions 🏄🏐🏋⛺
 
-<!--
-**Momotoculteur/Momotoculteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bmaurice10/) 
 
-Here are some ideas to get you started:
+Machine & Deep learning <> Blog : https://deeplylearning.com<br>DevOps - Cloud - CI/CD <> Blog : https://bastienmaurice.fr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# 💰 Support
+
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bastien_maurice@hotmail.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Momotoculteur) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
